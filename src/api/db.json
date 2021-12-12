@@ -1,0 +1,34 @@
+{
+  "movimientos": [
+    {
+      "movementType": 1,
+      "name": "Fondo EPM",
+      "amount": 45000,
+      "id": "bc46ebb2-961f-45d9-b916-cca77ac7c0d8"
+    },
+    {
+      "movementType": 2,
+      "name": "Siri Facendo baa",
+      "amount": 25000,
+      "id": "1601a034-8735-4e2e-bdba-c6c2af1c1b41"
+    },
+    {
+      "id": "f46b67c8-813c-48f3-a822-0690811b7554",
+      "movementType": 2,
+      "name": "Sifilinhio",
+      "amount": 25000
+    },
+    {
+      "id": "cc01a08d-ebde-4500-b0c1-b249a577c24a",
+      "movementType": 1,
+      "name": "Siri",
+      "amount": 10000
+    },
+    {
+      "id": "ab085620-d265-41b5-a5b8-d35928001d04",
+      "movementType": 2,
+      "name": "Chicles",
+      "amount": 4000
+    }
+  ]
+}
